@@ -20,6 +20,8 @@ _기울여 쓰기_
 <br/>
 ### 글씨가 작아진다
 ![image](https://user-images.githubusercontent.com/80821610/118617634-c7b3f280-b7fd-11eb-981c-71816de769d7.png)
+![image](https://user-images.githubusercontent.com/80821610/118621531-6aba3b80-b801-11eb-831b-2779860ca31c.png)
+
 <!--주석내용-->
 
 # h1
