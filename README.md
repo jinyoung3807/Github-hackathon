@@ -11,7 +11,7 @@
 ## 취득 자격증
 <br/>
 - IP 정보 검색사 <br>
-  <img width="217" alt="IP certification" src="https://user-images.githubusercontent.com/80821610/165900566-4276382a-4af8-45ce-8271-1ffe5a083c37.png">
+  ![image]("https://user-images.githubusercontent.com/80821610/165900566-4276382a-4af8-45ce-8271-1ffe5a083c37.png"){: width = "50%" height = "50%"}
 
 - Google Analytics <br>
  ![image](https://user-images.githubusercontent.com/80821610/118621531-6aba3b80-b801-11eb-831b-2779860ca31c.png)
