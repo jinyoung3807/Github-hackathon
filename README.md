@@ -2,7 +2,7 @@
 # 포트폴리오
 <br/>
 
-## 인적&nbsp;(빈칸)사항
+## 인적&nbsp;사항
 <br/>
 - 이름 : 김진영 <br>
 - 생년월일 : 2001.09.21<br>
@@ -17,8 +17,5 @@
 ![image](https://user-images.githubusercontent.com/80821610/118621531-6aba3b80-b801-11eb-831b-2779860ca31c.png)
 
 
-# h1
-## h2
-### h3
-#### h4
+
 
