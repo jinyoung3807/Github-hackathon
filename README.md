@@ -10,6 +10,7 @@
 
 ## 취득 자격증
 <br/>
+
 - IP 정보 검색사 <br>
   <img width="150" height = "200" alt="IP certification" src="https://user-images.githubusercontent.com/80821610/165900566-4276382a-4af8-45ce-8271-1ffe5a083c37.png">
 
