@@ -3,13 +3,13 @@
 
 
 ## 인적&nbsp;사항
-- 이름 : 김진영 <br>
-- 생년월일 : 2001.09.21<br>
-- 소속 : 한림대학교 정보과학대학 <br>
+- **이름** : 김진영 <br>
+- **생년월일** : 2001.09.21<br>
+- **소속** : 한림대학교 정보과학대학 <br>
   - 전공 : 빅데이터 <br>
   - 부전공 : 스마트 IOT <br>
   - 교직 이수 중 <br>
-- Email : 20215139@hallym.ac.kr
+- **Email** : 20215139@hallym.ac.kr
 
 ## 학습 프로그래밍 언어
 1. java
@@ -19,20 +19,41 @@
 5. R
 
 ## 취득 자격증
-- IP 정보 검색사 <br>
+- **IP 정보 검색사** <br>
   <img width="150" height = "200" alt="IP certification" src="https://user-images.githubusercontent.com/80821610/165900566-4276382a-4af8-45ce-8271-1ffe5a083c37.png">
 
-- Adobe Premiere Pro <br>
+- **Adobe Premiere Pro** <br>
   <img width="236" alt="premiere pro" src="https://user-images.githubusercontent.com/80821610/165899223-00e631dd-fc7f-47ca-b4a6-d3daad91330a.png">
   
-- GAIQ(Google Analytics Individual Qualification) <br>
+- **GAIQ**(Google Analytics Individual Qualification) <br>
  
+## 2021-2022 주요 커리큘럼 수강 이력
+
+| 학년 | 학기 | 구분 | 과목 | 학점 |
+|:---:|:---:|:---:|:---:|:-------:|:---:|
+|1|1| 전공필수 | 자바프로그래밍1 | 3 |
+|1|1| 전공필수 | 이산구조론 | 3 |
+|1|1| 기초-정보 | 컴퓨팅사고와 문제해결 - 파이썬 | 2 |
+|1|2| 전공선택 | 자바프로그래밍2 | 3 |
+|1|2| 전공선택 | 선형대수 | 3 |
+|1|2| 기초-정보 | 창의코딩 - 웹 | 2 |
+|2|1| 전공선택 | 소프트웨어개론 | 3 |
+|2|1| 전공선택 | 자료구조 | 3 |
+|2|1| 전공선택 | C프로그래밍 | 3 |
+|2|1| 전공선택 | 데이터사이언스기초 | 3 |
+|2|1| 전공선택 | 소프트웨어 세미나 | 1 |
+
+
+## 동아리 및 멘토링 활동
+- 2021~2022 학술동아리 <씨애랑>
+- 2021 1학기 JAVA 멘토링 참가
+
 
 ## 주요&nbsp;수강&nbsp;교육 
-- VR/AR 콘텐츠 제작자 과정 <br>
+- **VR/AR 콘텐츠 제작자 과정** <br>
   <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
-- 파이썬 DT 입문교육 / Python을 활용한 데이터 분석 <br>
+- **파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
   <img width="170" height = "200" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
 
 
