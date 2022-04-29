@@ -143,8 +143,8 @@
 - 2021 1학기 JAVA 멘토링 참가
 ---
 
-## 📄참여한 특강 내역
--2021
+## 📄특강  내역
+- 2021
  - Github와 sourcetree를 이용한 SW개발 형상 관리 방법
  - Connected AI Service for the Next-Generation Mobile System
  - Automotive IVI SW 개발
@@ -169,7 +169,7 @@
  - 공개SW 오픈소스와 클라우드
  - 오픈소스SW 라이선스 교육
  - 사이버보안 빅데이터 교육
--2022
+- 2022
  -Github 활용 개인 포트폴리오 제작
  -보안 취약점 사례로 알아보는 웹해킹 입문
 ---
