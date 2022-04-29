@@ -13,10 +13,25 @@
 
 ##  ✏학습 프로그래밍 언어
 1. java
+   ```java
+     System.out.println("Hello Java");
+   ```
 2. java script
-3. python
-4. C
-5. R
+    ```java script
+     document.write("Hello Java script")
+     ``` 
+4. python
+   ```python
+     print("Hello Python")
+   ``` 
+6. C
+   ```c
+     printf("Hello C");
+   ```
+7. R
+   ```R
+     print("Hello R")
+   ``` 
 ---
 
 ## 🏆취득 자격증
@@ -138,6 +153,7 @@
   - Baekjoon/프로그래머스 등의 사이트를 이용한 코딩 테스트 연습
   - 삼성 청년 SW 아카데미(SSAFY) 참가
   - SW 마에스트로 참가
+  - 캡스톤 프로젝트 참여
 - 외국어 능력 향상
   - 영어 회화 
 
