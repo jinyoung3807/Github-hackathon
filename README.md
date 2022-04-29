@@ -145,37 +145,42 @@
 
 ## 📄특강  내역
 - 2021
- - Github와 sourcetree를 이용한 SW개발 형상 관리 방법
- - Connected AI Service for the Next-Generation Mobile System
- - Automotive IVI SW 개발
- - UML을 이용한 SW설계 기초 특강
- - 도커의 개념 및 실습
- - ASIC Design and Verfication
- - SQL과 자바 데이터 베이스 프로그래밍
- - Introduction to Intelligent Algorithms for Automated Vehicle System
- - 오픈소스 개요
- - Microkernel Real-time Operating Systems and Embedded Systems Integration
- - 선배가 바라는 SW신입사원
- - 제품 내장형 AI 동향
- - 2021년 SW빌리지 정주형 교육 - C언어 기초
- - 2021년 SW빌리지 정주형 교육 - Python 기초
- - SW개발직군 포트폴리오 구성법 및 github에 포트폴리오 만들기
- - 스티브잡스처럼 프레젠테이션 하는 방법 기초편
- - Personalization
- - 나를 업그레이드 시켜주는 기술보고서 작성법
- - My Entrepreneurial Story in Canada-Airy3D inc.
- - 글로벌 소프트에어 전문가로 성장하기
- - [강원 관광테크] 인공지능 교육
- - 공개SW 오픈소스와 클라우드
- - 오픈소스SW 라이선스 교육
- - 사이버보안 빅데이터 교육
+  - Github와 sourcetree를 이용한 SW개발 형상 관리 방법
+  - Connected AI Service for the Next-Generation Mobile System
+  - Automotive IVI SW 개발
+  - UML을 이용한 SW설계 기초 특강
+  - 도커의 개념 및 실습
+  - ASIC Design and Verfication
+  - SQL과 자바 데이터 베이스 프로그래밍
+  - Introduction to Intelligent Algorithms for Automated Vehicle System
+  - 오픈소스 개요
+  - Microkernel Real-time Operating Systems and Embedded Systems Integration
+  - 선배가 바라는 SW신입사원
+  - 제품 내장형 AI 동향
+  - 2021년 SW빌리지 정주형 교육 - C언어 기초
+  - 2021년 SW빌리지 정주형 교육 - Python 기초
+  - SW개발직군 포트폴리오 구성법 및 github에 포트폴리오 만들기
+  - 스티브잡스처럼 프레젠테이션 하는 방법 기초편
+  - Personalization
+  - 나를 업그레이드 시켜주는 기술보고서 작성법
+  - My Entrepreneurial Story in Canada-Airy3D inc.
+  - 글로벌 소프트에어 전문가로 성장하기
+  - [강원 관광테크] 인공지능 교육
+  - 공개SW 오픈소스와 클라우드
+  - 오픈소스SW 라이선스 교육
+  - 사이버보안 빅데이터 교육
+  - 메타버스 GatherTown 제작&활용과정 교육
 - 2022
- -Github 활용 개인 포트폴리오 제작
- -보안 취약점 사례로 알아보는 웹해킹 입문
+  -Github 활용 개인 포트폴리오 제작
+  -보안 취약점 사례로 알아보는 웹해킹 입문
 ---
 
 ## 📄주요 수강 교육 
 - **VR/AR 콘텐츠 제작자 과정** <br>
+  - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 VR/AR 제작 기초	
+  - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 웹기반 AR콘텐츠 제작법	
+  - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 AR 콘텐츠 제작법	
+  - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 VR 콘텐츠 제작법
   <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
 - **파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
