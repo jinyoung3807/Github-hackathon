@@ -9,6 +9,7 @@
   - 부전공 : 스마트 IOT <br>
   - 교직 이수 중 <br>
 - **Email** : 20215139@hallym.ac.kr
+- **Github 주소** : jinyoung3807.github.com
 ---
 
 ##  ✏학습 프로그래밍 언어
