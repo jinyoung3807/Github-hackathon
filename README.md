@@ -24,9 +24,10 @@
 
 ## 수강&nbsp;교육
 <br/>
--VR/AR 콘텐츠 제작자 과정 <br>
+- VR/AR 콘텐츠 제작자 과정 <br>
 <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
-
+- 파이썬 DT 입문교육 / Python을 활용한 데이터 분석 <br>
+  <img width="240" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
 
 
