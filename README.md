@@ -9,12 +9,14 @@
   - 전공 : 빅데이터 <br>
   - 부전공 : 스마트 IOT <br>
   - 교직 이수 중 <br>
+- Email : 20215139@hallym.ac.kr
 
 ## 학습 프로그래밍 언어
 1. java
 2. java script
 3. python
 4. C
+5. R
 
 ## 취득 자격증
 - IP 정보 검색사 <br>
@@ -26,7 +28,7 @@
 - GAIQ(Google Analytics Individual Qualification) <br>
  
 
-## 수강&nbsp;교육 
+## 주요&nbsp;수강&nbsp;교육 
 - VR/AR 콘텐츠 제작자 과정 <br>
   <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
