@@ -180,7 +180,7 @@
   - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 VR/AR 제작 기초	
   - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 웹기반 AR콘텐츠 제작법	
   - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 AR 콘텐츠 제작법	
-  - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 VR 콘텐츠 제작법
+  - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 VR 콘텐츠 제작법<br>
   <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
 - **파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
