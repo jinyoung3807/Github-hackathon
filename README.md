@@ -5,10 +5,12 @@
 ## 인적&nbsp;사항
 - 이름 : 김진영 <br>
 - 생년월일 : 2001.09.21<br>
+- 소속 : 한림대학교 정보과학대학
+-- 전공 : 빅데이터
+-- 부전공 : 스마트 IOT
+-- 교직 이수 중
 
 ## 취득 자격증
-<br/>
-
 - IP 정보 검색사 <br>
   <img width="150" height = "200" alt="IP certification" src="https://user-images.githubusercontent.com/80821610/165900566-4276382a-4af8-45ce-8271-1ffe5a083c37.png">
 
@@ -18,11 +20,7 @@
 - GAIQ(Google Analytics Individual Qualification) <br>
  
 
-
-
 ## 수강&nbsp;교육 
-<br/>
-
 - VR/AR 콘텐츠 제작자 과정 <br>
   <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
