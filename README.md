@@ -3,7 +3,7 @@
 
 ## 🧑‍🎓인적&nbsp;사항
 - **이름** : 김진영(Jinyoung Kim) <br>
-- **소속** <br>
+- **소속** : 한림대학교 정보과학대학 <br>
   - 전공 : 빅데이터 <br>
   - 부전공 : 스마트 IoT <br>
   - 교직 이수 : 중등 '정보 · 컴퓨터' 교과 과정 <br>
@@ -78,7 +78,7 @@
 - **2022-2학기 감사운동 멘토링 - 멘토 참가**
 ---
 
-## :smile:2022-2학기 한림SW봉사단
+## :smile:2022-2학기 한림SW봉사단 활동 중
 - 2022.11.26 ~ 2022.11.27 봉사동아리 연수(예정)
    ``` 
    각급 기관에서 사용하고 있는 [핑퐁로봇 심화과정/ AI항공촬영]과 같은 신산업분야에 선도적인 교육의 필요성 및 교육현장의 요청에 부응하기 위해 계획된 봉사동아리 연수 일정입니다.
@@ -129,7 +129,8 @@
   - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 AR 콘텐츠 제작법	
   - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 VR 콘텐츠 제작법<br>
   <img width="200" height = "270" alt="VR,AR 수료증" src="https://user-images.githubusercontent.com/80821610/198845127-42ddc571-f2ea-4acd-a04a-4509205bb32a.png">
-  <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
+  <img width="200" height = "270" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png">
+  <img width="300" height = "200" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="250" height = "200" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
 - **2021 파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
  <img width="200" height = "270" alt="삼성 멀티캠퍼스 수료증" src="https://user-images.githubusercontent.com/80821610/198845175-00eba720-b7a0-495f-9345-0b028b6e121c.png"> <img width="200" height = "270" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
