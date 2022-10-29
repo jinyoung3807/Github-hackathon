@@ -1,5 +1,5 @@
 
-# 2022 포트폴리오
+# 2022 Portfolio
 
 ## 🧑‍🎓인적&nbsp;사항
 - **이름** : 김진영(Jinyoung Kim) <br>
@@ -9,6 +9,7 @@
   - 교직 이수 : 중등 '정보 · 컴퓨터' 교과 과정 <br>
 - **Email** : [jyoung3807@naver.com](jyoung3807@naver.com) <br>
 - **Github 주소** : [jinyoung3807.github.com](jinyoung3807.github.com)<br>
+💬 If you want to contect me, [Click](https://github.com/jinyoung3807/jinyoung3807/issues) <br>
 ```
    안녕하세요. 한림대학교 정보과학대학에 재학 중인 빅데이터 전공 21학번 김진영입니다. 
 ```
