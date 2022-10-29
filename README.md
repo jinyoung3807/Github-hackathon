@@ -2,7 +2,7 @@
 # 2022 포트폴리오
 
 ## 🧑‍🎓인적&nbsp;사항
-- **이름** : 김진영 <br>
+- **이름** : 김진영(Jinyoung Kim) <br>
 - **소속** <br>
   - 전공 : 빅데이터 <br>
   - 부전공 : 스마트 IoT <br>
@@ -49,14 +49,25 @@
 ---
 
 ## 🏆SW관련 수상 이력
-<img width="200" height = "270" alt="이력서 동상" src="https://user-images.githubusercontent.com/80821610/198845066-4f007847-11fa-4085-ab47-4c246c28500e.png"> <img width="200" height = "270" alt="이산구조론" src="https://user-images.githubusercontent.com/80821610/198845068-a391169a-0538-4814-9ce2-d4a6ac6c0946.png"> <img width="200" height = "270" alt="창의코딩 웹" src="https://user-images.githubusercontent.com/80821610/198845069-2cf77100-29d7-48bf-b0a3-432d01dde25c.png">
+<img width="200" height = "270" alt="이산구조론" src="https://user-images.githubusercontent.com/80821610/198845068-a391169a-0538-4814-9ce2-d4a6ac6c0946.png"> <img width="200" height = "270" alt="창의코딩 웹" src="https://user-images.githubusercontent.com/80821610/198845069-2cf77100-29d7-48bf-b0a3-432d01dde25c.png"> <img width="200" height = "270" alt="이력서 동상" src="https://user-images.githubusercontent.com/80821610/198845066-4f007847-11fa-4085-ab47-4c246c28500e.png"> 
 
 ---
  
-## 📋2021-2022 주요 커리큘럼 수강 이력
-  |학점|구분|과목|공부내용|
-  |---|---|---|---|
-
+## 📋2021-2022 주요 SW 커리큘럼 수강 이력
+  |학년|학점|구분|과목|공부내용|
+  |---|---|---|---|---|
+  |1|3|전공필수|자바프로그래밍1||
+  |1|3|전공필수|이산구조론||
+  |1|2|기초-정보|컴퓨팅사고와 문제해결 - 파이썬||
+  |1|3|전공필수|자바프로그래밍2||
+  |1|3|전공필수|선형대수||
+  |1|2|기초-정보|창의코딩 - 웹||
+  |2|3|전공선택|소프트웨어개론||
+  |2|3|전공선택|자료구조||
+  |2|3|전공선택|데이터사이언스기초||
+  |2|3|전공선택|C프로그래밍||
+  |2|1|전공선택|소프트웨어 세미나||
+  
 ---
 
 ## 🖊동아리 및 멘토링 활동
@@ -132,7 +143,7 @@
   |2022|1|제 17회 TOPCIT|
   |2022|2|제 18회 TOPCIT|
    ```
-   TOPCIT이란? 
+   TOPCIT이란?
    소프트웨어 역량 검정(TOPCIT: Test Of Practical Competency in IT)은 소프트웨어를 활용한 창의적 문제해결 능력을 평가받고자 하는 사람을 대상으로 실시하는 검정시험입니다.
 TOPCIT은 ICT산업 종사자 및 SW개발자가 비즈니스를 이해하고, 요구사항에 따른 과제를 해결하여 업무를 성공적으로 수행하는데 요구되는 기본적인 핵심 지식·스킬의 종합적인 능력을 진단하고 평가합니다.
    ```
@@ -146,6 +157,8 @@ TOPCIT은 ICT산업 종사자 및 SW개발자가 비즈니스를 이해하고, �
 - 2022년 10월 Daily코딩-자료구조
 - 2022년 10월 Daily코딩-프로그래밍 기초 50제(예정)
 - 2022년 10월 Daily코딩-자료구조(예정)
+  <img width="400" alt="daily코딩" src="https://user-images.githubusercontent.com/80821610/198845853-9a45a686-c833-40fa-9d0f-ba076ff3d64e.png">
+
 ---
 
 ## Hallym SW Week 참가 대회
