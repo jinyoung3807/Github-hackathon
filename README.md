@@ -9,6 +9,7 @@
   - 교직 이수 : 중등 '정보 · 컴퓨터' 교과 과정 <br>
 - **Email** : [jyoung3807@naver.com](jyoung3807@naver.com) <br>
 - **Github 주소** : [jinyoung3807.github.com](jinyoung3807.github.com)<br>
+- [Click]
 ```
    안녕하세요. 한림대학교 정보과학대학에 재학 중인 빅데이터 전공 21학번 김진영입니다. 
 ```
@@ -143,7 +144,7 @@
 - 2022년 10월 Daily코딩-프로그래밍 기초 50제
 - 2022년 10월 Daily코딩-자료구조
 - 2022년 10월 Daily코딩-프로그래밍 기초 50제(예정)
-- 2022년 10월 Daily코딩-자료구조(예정)
+- 2022년 10월 Daily코딩-자료구조(예정) <br>
   <img width="400" alt="daily코딩" src="https://user-images.githubusercontent.com/80821610/198845853-9a45a686-c833-40fa-9d0f-ba076ff3d64e.png">
 
 ---
