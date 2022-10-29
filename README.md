@@ -123,7 +123,7 @@
 ---
 
 ## 📄주요 수강 교육 
-- **2021 VR/AR 콘텐츠 제작자 과정** <br>
+- **2021 VR/AR 콘텐츠 제작자 과정** 
   - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 VR/AR 제작 기초	
   - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 웹기반 AR콘텐츠 제작법	
   - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 AR 콘텐츠 제작법	
@@ -133,6 +133,18 @@
 
 - **2021 파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
  <img width="200" height = "270" alt="삼성 멀티캠퍼스 수료증" src="https://user-images.githubusercontent.com/80821610/198845175-00eba720-b7a0-495f-9345-0b028b6e121c.png"> <img width="200" height = "270" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
+---
+
+## 🖊Daily 코딩테스트 참가 이력(Elice 시스템 활용)
+- 2022년 8월 Daily코딩-프로그래밍 기초 50제
+- 2022년 9월 Daily코딩-프로그래밍 기초 50제
+- 2022년 9월 Daily코딩-자료구조
+- 2022년 10월 Daily코딩-프로그래밍 기초 50제
+- 2022년 10월 Daily코딩-자료구조
+- 2022년 10월 Daily코딩-프로그래밍 기초 50제(예정)
+- 2022년 10월 Daily코딩-자료구조(예정)
+  <img width="400" alt="daily코딩" src="https://user-images.githubusercontent.com/80821610/198845853-9a45a686-c833-40fa-9d0f-ba076ff3d64e.png">
+
 ---
 
 ## 🖊TOPCIT 참가 이력
@@ -147,18 +159,6 @@
    소프트웨어 역량 검정(TOPCIT: Test Of Practical Competency in IT)은 소프트웨어를 활용한 창의적 문제해결 능력을 평가받고자 하는 사람을 대상으로 실시하는 검정시험입니다.
 TOPCIT은 ICT산업 종사자 및 SW개발자가 비즈니스를 이해하고, 요구사항에 따른 과제를 해결하여 업무를 성공적으로 수행하는데 요구되는 기본적인 핵심 지식·스킬의 종합적인 능력을 진단하고 평가합니다.
    ```
----
-
-## 🖊Daily 코딩테스트 참가 이력(Elice 시스템 활용)
-- 2022년 8월 Daily코딩-프로그래밍 기초 50제
-- 2022년 9월 Daily코딩-프로그래밍 기초 50제
-- 2022년 9월 Daily코딩-자료구조
-- 2022년 10월 Daily코딩-프로그래밍 기초 50제
-- 2022년 10월 Daily코딩-자료구조
-- 2022년 10월 Daily코딩-프로그래밍 기초 50제(예정)
-- 2022년 10월 Daily코딩-자료구조(예정)
-  <img width="400" alt="daily코딩" src="https://user-images.githubusercontent.com/80821610/198845853-9a45a686-c833-40fa-9d0f-ba076ff3d64e.png">
-
 ---
 
 ## Hallym SW Week 참가 대회
