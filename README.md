@@ -50,7 +50,7 @@
 ---
 
 ## 🏆SW관련 수상 이력
-<img width="200" height = "270" alt="이산구조론" src="https://user-images.githubusercontent.com/80821610/198845068-a391169a-0538-4814-9ce2-d4a6ac6c0946.png"> <img width="200" height = "270" alt="창의코딩 웹" src="https://user-images.githubusercontent.com/80821610/198845069-2cf77100-29d7-48bf-b0a3-432d01dde25c.png"> <img width="200" height = "270" alt="이력서 동상" src="https://user-images.githubusercontent.com/80821610/198845066-4f007847-11fa-4085-ab47-4c246c28500e.png"> 
+<img width="200" height = "270" alt="이산구조론" src="https://user-images.githubusercontent.com/80821610/198845068-a391169a-0538-4814-9ce2-d4a6ac6c0946.png"> <img width="200" height = "270" alt="창의코딩 웹" src="https://user-images.githubusercontent.com/80821610/198845069-2cf77100-29d7-48bf-b0a3-432d01dde25c.png"> 
 
 ---
  
