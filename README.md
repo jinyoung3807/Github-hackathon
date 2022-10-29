@@ -7,8 +7,11 @@
   - 전공 : 빅데이터 <br>
   - 부전공 : 스마트 IOT <br>
   - 교직 이수 중 <br>
-- **Email** : 
-- **Github 주소** : jinyoung3807.github.com
+- **Email** : [jyoung3807@naver.com](jyoung3807@naver.com) <br>
+- **Github 주소** : [jinyoung3807.github.com](jinyoung3807.github.com)<br>
+```
+   안녕하세요. 한림대학교 정보과학대학에 재학 중인 빅데이터 전공 21학번 김진영입니다. 
+```
 ---
 
 ##  ✏학습 프로그래밍 언어
@@ -45,103 +48,20 @@
  
 ## 📋2021-2022 주요 커리큘럼 수강 이력
 
-<table>
-  <tr>
-    <th>학년</th>
-    <th>학기</th>
-    <th>구분</th>
-    <th>과목명</th>
-    <th>학점</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>1</th>
-    <th>전공필수</th>
-    <th>자바프로그래밍1</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>1</th>
-    <th>전공필수</th>
-    <th>이산구조론</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>1</th>
-    <th>기초 - 정보</th>
-    <th>컴퓨팅사고와 문제해결 - 파이썬</th>
-    <th>2</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>전공필수</th>
-    <th>자바프로그래밍2</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>전공필수</th>
-    <th>선형대수</th>
-    <th>3</th>
-  </tr>
-   <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>기초 - 정보</th>
-    <th>창의코딩 - 웹</th>
-    <th>2</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>소프트웨어개론</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>자료구조</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>C프로그래밍</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>데이터사이언스기초</th>
-    <th>3</th>
-  </tr>
-  <tr>
-    <th>2</th>
-    <th>1</th>
-    <th>전공선택</th>
-    <th>소프트웨어 세미나</th>
-    <th>1</th>
-  </tr>
-</table>
 
 ---
 
 ## 🖊동아리 및 멘토링 활동
-- **2021~2022 학술동아리 <씨애랑> 딥러닝팀**
+- **2021~2022 학술동아리 <C.愛.랑> 딥러닝팀**
   - 신입생 JAVA 교육 참여
   - 하계 방학 딥러닝 팀 교육 참여
 - **2021 1학기 JAVA 멘토링 참가**
 ---
 
-## 📄특강  내역
+## 2022-2학기 한림SW봉사단
+- 2022.11.26 ~ 2022.11.27 봉사동아리 연수 일정()
+
+## 📄수강 SW특강  내역
 - **2021**
   - Github와 sourcetree를 이용한 SW개발 형상 관리 방법
   - Connected AI Service for the Next-Generation Mobile System
@@ -186,12 +106,24 @@
 ---
 
 ## 🖊테스트
-- 2021년 제15회 TOPCIT
-- Hally SW Week - 기초대회[파이썬 퀴즈 온 더 한림]
-- [SW Week 대회] 2021 Coding Festival
-- 2021년 제16회 TOPCIT
-- 2022년 제17회 TOPCIT (예정)
+- **2021**
+- 1학기) 제 15회 TOPCIT
+- 2학기) 제 16회 TOPCIT
+
+- **2022**
+- 1학기) 제 17회 TOPCIT 
+- 2학기) 제 18회 TOPCIT
 ---
+
+## 참가 대회
+- **2021 Hallym SW Week **
+- 기초대회[파이썬 퀴즈 온 더 한림]
+- [SW Week 대회] 2021 Coding Festival
+
+- **2022 Hallym SW Week **
+- 2022 SW Coding Festival
+- 완내스 파이썬 / R
+- 
 
 ## 🤔앞으로의 활동 계획
 - **SW 전공 관련 능력 향상**
