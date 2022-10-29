@@ -133,7 +133,7 @@
   <img width="200" height = "270" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png">
   <img width="300" height = "200" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="250" height = "200" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
-- **2021 파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
+- **2021 삼성멀티캠퍼스 파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
  <img width="200" height = "270" alt="삼성 멀티캠퍼스 수료증" src="https://user-images.githubusercontent.com/80821610/198845175-00eba720-b7a0-495f-9345-0b028b6e121c.png"> <img width="200" height = "270" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
 ---
 
