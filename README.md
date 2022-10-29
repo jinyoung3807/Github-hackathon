@@ -39,6 +39,7 @@
 
 ## 🏆취득 자격증
 - **IP 정보 검색사** <br>
+  <img width="200" height = "270" alt="IP정보검색사 자격증" src="https://user-images.githubusercontent.com/80821610/198845108-a708851e-6b32-4b91-8db2-dfe1aa214278.png">
 
 - **Adobe Premiere Pro** <br>
   <img width="236" alt="premiere pro" src="https://user-images.githubusercontent.com/80821610/165899223-00e631dd-fc7f-47ca-b4a6-d3daad91330a.png">
@@ -47,7 +48,7 @@
 ---
 
 ## 🏆SW관련 수상 이력
-
+<img width="200" height = "270" alt="이력서 동상" src="https://user-images.githubusercontent.com/80821610/198845066-4f007847-11fa-4085-ab47-4c246c28500e.png"><img width="200" height = "270" alt="이산구조론" src="https://user-images.githubusercontent.com/80821610/198845068-a391169a-0538-4814-9ce2-d4a6ac6c0946.png"><img width="200" height = "270" alt="창의코딩 웹" src="https://user-images.githubusercontent.com/80821610/198845069-2cf77100-29d7-48bf-b0a3-432d01dde25c.png">
 
 ---
  
@@ -115,10 +116,11 @@
   - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 웹기반 AR콘텐츠 제작법	
   - [강원VR·AR 4월 정기교육] 누구나 할 수 있는 AR 콘텐츠 제작법	
   - [강원VR·AR 5월 정기교육] 누구나 할 수 있는 VR 콘텐츠 제작법<br>
+  <img width="200" height = "270" alt="VR,AR 수료증" src="https://user-images.githubusercontent.com/80821610/198845127-42ddc571-f2ea-4acd-a04a-4509205bb32a.png">
   <img width="67" alt="화면 캡처 2022-04-29 155306" src="https://user-images.githubusercontent.com/80821610/165899871-f3f7e767-dfea-4346-98d6-1196afcceb66.png"> <img width="218" alt="화면 캡처 2022-04-29 160025" src="https://user-images.githubusercontent.com/80821610/165899884-1577bcbc-dd9f-4e4d-996a-226db884d935.png"> <img width="197" alt="화면 캡처 2022-04-29 155638" src="https://user-images.githubusercontent.com/80821610/165899889-53166293-bfe7-4b6b-ba8c-4472a6cb24b6.png">
 
 - **2021 파이썬 DT 입문교육 / Python을 활용한 데이터 분석** <br>
-  <img width="170" height = "200" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
+ <img width="200" height = "270" alt="삼성 멀티캠퍼스 수료증" src="https://user-images.githubusercontent.com/80821610/198845175-00eba720-b7a0-495f-9345-0b028b6e121c.png"><img width="200" height = "270" alt="화면 캡처 2022-04-29 163434" src="https://user-images.githubusercontent.com/80821610/165902560-d8f9102f-1e82-4e89-a779-c39286067c35.png">
 ---
 
 ## 🖊TOPCIT 참가 이력
