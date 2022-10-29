@@ -59,7 +59,7 @@
   |---|---|---|---|---|
   |1|3|전공필수|자바프로그래밍1|[자바.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894498/default.pdf)|
   |1|3|전공필수|이산구조론|[이산구조론.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894502/default.pdf)|
-  |1|2|기초-정보|컴퓨팅사고와 문제해결 - 파이썬||
+  |1|2|기초-정보|컴퓨팅사고와 문제해결 - 파이썬|[파이썬.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894518/default.pdf)|
   |1|3|전공필수|자바프로그래밍2||
   |1|3|전공필수|선형대수||
   |1|2|기초-정보|창의코딩 - 웹|[웹4.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894481/4.pdf) / [웹3.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894483/3.pdf) / [웹2.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894484/2.pdf) / [웹1.pdf](https://github.com/jinyoung3807/Github-hackathon/files/9894485/1.pdf)|
